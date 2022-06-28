@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mamba install -n env_cwl -c conda-forge cwltool nodejs 
